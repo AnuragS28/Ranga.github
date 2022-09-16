@@ -1,0 +1,24 @@
+{
+  "name": "valmir",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DThis is a Valmir Project\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuragS28/Ranga.github.git"
+  },
+  "author": "Anurag S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnuragS28/Ranga.github/issues"
+  },
+  "homepage": "https://github.com/AnuragS28/Ranga.github#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
